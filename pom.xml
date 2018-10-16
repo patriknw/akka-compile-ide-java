@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>akka-samples</groupId>
-    <artifactId>akka-sample-typed-java</artifactId>
+    <artifactId>akka-compile-ide-java</artifactId>
     <version>1.0</version>
 
     <properties>
